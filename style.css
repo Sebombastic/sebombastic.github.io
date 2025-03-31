@@ -3,7 +3,7 @@ body {
   background-image: url("https://minecraft.wiki/images/Dirt_%28texture%29_JE2_BE2.png?c9c97");
 }
 
-h1 {
+h1, p{
   color: white;
   text-align: center;
 }
